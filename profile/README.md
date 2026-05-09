@@ -36,10 +36,12 @@ BuyIn est une plateforme de ticketing moderne permettant :
 - PostgreSQL
 - Docker
 - Prisma
-- TailwindCSS
+- CSS
 - Redis
 - RabbitMQ
-
+- Dotnet C#
+- Blender
+- Java
 ---
 
 ## 🌍 Vision
