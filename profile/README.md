@@ -1,10 +1,10 @@
-# ⚡ Switchs
+# ⚡ Switchs.dev
 
-Bienvenue sur l’organisation officielle de Switchs.
+Bienvenue sur l’organisation officielle de Switchs.dev.
 
 ## 🚀 À propos
 
-Switchs construit des plateformes modernes, scalables et centrées sur l’expérience utilisateur.
+Switchs.dev construit des plateformes modernes, scalables et centrées sur l’expérience utilisateur.
 
 Notre objectif est de développer des produits numériques performants combinant :
 
@@ -62,4 +62,4 @@ Coming soon.
 
 ---
 
-Made with ❤️ by Switchs
+Made with ❤️ by Switchs.dev
