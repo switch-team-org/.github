@@ -20,11 +20,9 @@ Notre objectif est de développer des produits numériques performants combinant
 
 ### 🎟️ BuyIn
 
-BuyIn est une plateforme de ticketing moderne permettant :
+BuyIn est une plateforme de ecommerce moderne permettant :
 
-- l’achat de tickets en ligne
-- la visualisation interactive des places
-- la gestion d’événements
+- l’achat en ligne
 - les paiements sécurisés
 - les expériences live et temps réel
 
